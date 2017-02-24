@@ -9,7 +9,6 @@
       <li><a href="#intro">Home</a></li>
       <li><a href="#intro-services">Services</a></li>
       <li><a href="#faq">FAQs</a></li>
-      <li><a href="#about">About</a></li>
       <li><a href="#locations">Contact</a></li>
     </ul>
   </div>
