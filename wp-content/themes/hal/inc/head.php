@@ -8,7 +8,7 @@
   </div>
 
   <div class="col-sm-3 col-md-2 col-md-offset-1">
-    <a href="#" id="top-burger">MENU</a>
+    <a href="#" id="top-burger"><span class="fa fa-bars"></span></a>
   </div>
 
   <div id="top-nav">
